@@ -1,0 +1,1224 @@
+[
+  {
+    "DId": 82,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 16, ATL4, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 285,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 9, ATL2, GreaterThan, [2017-06-13 22:40:10]",
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 330,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 340,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 102,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 269,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 55,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]",
+      "Rule: 26, ATL7, LessThan, [50]"
+    ]
+  },
+  {
+    "DId": 224,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 18, ATL5, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 350,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]",
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 164,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 130,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 369,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 315,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 35, ATL9, OutBand, [0 & 60]",
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 336,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 261,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 80,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 64,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 41,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 362,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 271,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 16, ATL4, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 168,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 303,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 24, ATL6, GreaterThan, [2017-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 348,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 5, ATL1, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 304,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 313,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 380,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 397,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]",
+      "Rule: 26, ATL7, LessThan, [50]"
+    ]
+  },
+  {
+    "DId": 61,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 282,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 16, ATL4, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 393,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 5, ATL1, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 169,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 382,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 24, ATL6, GreaterThan, [2017-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 30,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]",
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 302,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 264,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 2,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 57,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 84,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 257,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 35,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 19, ATL5, LessThan, [2018-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 141,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 50,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 36,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 107,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 253,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 1, ATL1, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 3,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 342,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 9, ATL2, GreaterThan, [2017-06-13 22:40:10]",
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 175,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 71,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 16, ATL4, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 307,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 250,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 7,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 112,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 29, ATL7, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 234,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 68,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 241,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 43,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 6, ATL2, OutBand, [0 & 60]",
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 14,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 19, ATL5, LessThan, [2018-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 341,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 103,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 24, ATL6, GreaterThan, [2017-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 185,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]",
+      "Rule: 26, ATL7, LessThan, [50]"
+    ]
+  },
+  {
+    "DId": 131,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]",
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 127,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 60,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 34, ATL8, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 104,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 209,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 384,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 24, ATL6, GreaterThan, [2017-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 299,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 19, ATL5, LessThan, [2018-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 280,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 365,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 31, ATL8, GreaterThan, [70]",
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 56,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]",
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 356,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 31, ATL8, GreaterThan, [70]",
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 105,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 29, ATL7, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 306,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 42,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 35, ATL9, OutBand, [0 & 60]",
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 243,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 6, ATL2, OutBand, [0 & 60]",
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 91,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 245,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 9, ATL2, GreaterThan, [2017-06-13 22:40:10]",
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 235,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 19, ATL5, LessThan, [2018-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 78,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 63,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 184,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 24, ATL6, GreaterThan, [2017-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 24,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 18, ATL5, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 239,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 138,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 325,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 352,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 1, ATL1, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 150,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]",
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 268,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 338,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 244,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 174,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 35, ATL9, OutBand, [0 & 60]",
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 39,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 197,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]",
+      "Rule: 26, ATL7, LessThan, [50]"
+    ]
+  },
+  {
+    "DId": 34,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 165,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 31, ATL8, GreaterThan, [70]",
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 312,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 29, ATL7, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 308,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 16, ATL4, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 260,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 34, ATL8, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 119,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 1, ATL1, InBand, [50 & 100]",
+      "Rule: 2, ATL1, GreaterThan, [70]"
+    ]
+  },
+  {
+    "DId": 44,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 329,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 193,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 5, ATL1, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 156,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 31, ATL8, GreaterThan, [70]",
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 272,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 18, ATL5, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 136,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 255,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]",
+      "Rule: 26, ATL7, LessThan, [50]"
+    ]
+  },
+  {
+    "DId": 385,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]",
+      "Rule: 26, ATL7, LessThan, [50]"
+    ]
+  },
+  {
+    "DId": 267,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 319,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 1, ATL1, InBand, [50 & 100]",
+      "Rule: 2, ATL1, GreaterThan, [70]"
+    ]
+  },
+  {
+    "DId": 281,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 214,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 19, ATL5, LessThan, [2018-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 72,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 18, ATL5, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 375,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 53,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 1, ATL1, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 142,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 9, ATL2, GreaterThan, [2017-06-13 22:40:10]",
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 180,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 236,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 278,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 318,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 31, ATL8, GreaterThan, [70]",
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 108,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 16, ATL4, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 166,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 293,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 328,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 207,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 263,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 99,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 19, ATL5, LessThan, [2018-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 113,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 25, ATL7, InBand, [1 & 100]"
+    ]
+  },
+  {
+    "DId": 327,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 203,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 162,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 45,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 9, ATL2, GreaterThan, [2017-06-13 22:40:10]",
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 148,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 5, ATL1, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 368,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 192,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 29, ATL7, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 132,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 177,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 14, ATL4, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 392,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 29, ATL7, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 129,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 81,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 69,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 67,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 366,
+    "Signal": "ATL3",
+    "Rules": [
+      "Rule: 12, ATL3, NotEqual, [HIGH]"
+    ]
+  },
+  {
+    "DId": 202,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 106,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 331,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]",
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 146,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 9,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 93,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 7, ATL2, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 125,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 21, ATL6, OutBand, [2 & 20]",
+      "Rule: 22, ATL6, GreaterThan, [50]"
+    ]
+  },
+  {
+    "DId": 256,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]",
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 284,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 118,
+    "Signal": "ATL8",
+    "Rules": [
+      "Rule: 31, ATL8, GreaterThan, [70]",
+      "Rule: 30, ATL8, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 85,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 9, ATL2, GreaterThan, [2017-06-13 22:40:10]",
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 152,
+    "Signal": "ATL1",
+    "Rules": [
+      "Rule: 1, ATL1, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 182,
+    "Signal": "ATL6",
+    "Rules": [
+      "Rule: 24, ATL6, GreaterThan, [2017-06-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 364,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 374,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 35, ATL9, OutBand, [0 & 60]",
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 332,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 128,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 140,
+    "Signal": "ATL5",
+    "Rules": [
+      "Rule: 17, ATL5, LessThan, [500]"
+    ]
+  },
+  {
+    "DId": 377,
+    "Signal": "ATL4",
+    "Rules": [
+      "Rule: 14, ATL4, InBand, [50 & 100]"
+    ]
+  },
+  {
+    "DId": 291,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 346,
+    "Signal": "ATL2",
+    "Rules": [
+      "Rule: 10, ATL2, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 305,
+    "Signal": "ATL7",
+    "Rules": [
+      "Rule: 29, ATL7, InBand, [2017-06-13 22:40:10 & 2017-12-13 22:40:10]"
+    ]
+  },
+  {
+    "DId": 242,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 35, ATL9, OutBand, [0 & 60]",
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 115,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 35, ATL9, OutBand, [0 & 60]",
+      "Rule: 36, ATL9, LessThan, [100]"
+    ]
+  },
+  {
+    "DId": 230,
+    "Signal": "ATL9",
+    "Rules": [
+      "Rule: 39, ATL9, OutBand, [2016-01-13 22:40:10 & 2016-12-13 22:40:10]",
+      "Rule: 38, ATL9, LessThan, [2017-06-13 22:40:10]"
+    ]
+  }
+]

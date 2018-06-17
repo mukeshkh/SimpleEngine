@@ -1,0 +1,11 @@
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\bin\Debug\netcoreapp2.0\SimpleRuleEngine.deps.json
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\bin\Debug\netcoreapp2.0\SimpleRuleEngine.runtimeconfig.json
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\bin\Debug\netcoreapp2.0\SimpleRuleEngine.runtimeconfig.dev.json
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\bin\Debug\netcoreapp2.0\SimpleRuleEngine.dll
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\bin\Debug\netcoreapp2.0\SimpleRuleEngine.pdb
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\obj\Debug\netcoreapp2.0\SimpleRuleEngine.csprojAssemblyReference.cache
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\obj\Debug\netcoreapp2.0\SimpleRuleEngine.csproj.CoreCompileInputs.cache
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\obj\Debug\netcoreapp2.0\SimpleRuleEngine.AssemblyInfoInputs.cache
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\obj\Debug\netcoreapp2.0\SimpleRuleEngine.AssemblyInfo.cs
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\obj\Debug\netcoreapp2.0\SimpleRuleEngine.dll
+C:\Users\mkhatri\source\repos\NewRepo\SimpleRuleEngine\SimpleRuleEngine\obj\Debug\netcoreapp2.0\SimpleRuleEngine.pdb

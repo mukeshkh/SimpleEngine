@@ -1,0 +1,260 @@
+[
+  {
+    "signal": "ATL1",
+    "valueType": "Integer",
+    "value": [ "50", "100" ],
+    "operator": "InBand"
+  },
+  {
+    "signal": "ATL1",
+    "valueType": "Integer",
+    "value": [ "70" ],
+    "operator": "GreaterThan"
+  },
+  {
+    "signal": "ATL1",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL1",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10" ],
+    "operator": "IsFuture"
+  },
+  {
+    "signal": "ATL1",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10", "2017-12-13 22:40:10" ],
+    "operator": "InBand"
+  },
+
+  {
+    "signal": "ATL2",
+    "valueType": "Integer",
+    "value": [ "0", "60" ],
+    "operator": "OutBand"
+  },
+  {
+    "signal": "ATL2",
+    "valueType": "Integer",
+    "value": [ "100" ],
+    "operator": "LessThan"
+  },
+  {
+    "signal": "ATL2",
+    "valueType": "String",
+    "value": [ "LOW" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL2",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10" ],
+    "operator": "GreaterThan"
+  },
+  {
+    "signal": "ATL2",
+    "valueType": "Datetime",
+    "value": [ "2016-01-13 22:40:10", "2016-12-13 22:40:10" ],
+    "operator": "OutBand"
+  },
+
+  {
+    "signal": "ATL3",
+    "valueType": "Integer",
+    "value": [ "70" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL3",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "NotEqual"
+  },
+  {
+    "signal": "ATL3",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10" ],
+    "operator": "IsFuture"
+  },
+  {
+    "signal": "ATL4",
+    "valueType": "Integer",
+    "value": [ "50", "100" ],
+    "operator": "InBand"
+  },
+  {
+    "signal": "ATL4",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL4",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10", "2017-12-13 22:40:10" ],
+    "operator": "InBand"
+  },
+  {
+    "signal": "ATL5",
+    "valueType": "Integer",
+    "value": [ "500" ],
+    "operator": "LessThan"
+  },
+  {
+    "signal": "ATL5",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "NotEqual"
+  },
+  {
+    "signal": "ATL5",
+    "valueType": "Datetime",
+    "value": [ "2018-06-13 22:40:10" ],
+    "operator": "LessThan"
+  },
+  {
+    "signal": "ATL5",
+    "valueType": "Datetime",
+    "value": [ "2018-01-13 22:40:10", "2018-6-13 22:40:10" ],
+    "operator": "InBand"
+  },
+
+  {
+    "signal": "ATL6",
+    "valueType": "Integer",
+    "value": [ "2", "20" ],
+    "operator": "outBand"
+  },
+  {
+    "signal": "ATL6",
+    "valueType": "Integer",
+    "value": [ "50" ],
+    "operator": "GreaterThan"
+  },
+  {
+    "signal": "ATL6",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL6",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10" ],
+    "operator": "GreaterThan"
+  },
+
+  {
+    "signal": "ATL7",
+    "valueType": "Integer",
+    "value": [ "1", "100" ],
+    "operator": "InBand"
+  },
+  {
+    "signal": "ATL7",
+    "valueType": "Integer",
+    "value": [ "50" ],
+    "operator": "LessThan"
+  },
+  {
+    "signal": "ATL7",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL7",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10" ],
+    "operator": "IsFuture"
+  },
+  {
+    "signal": "ATL7",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10", "2017-12-13 22:40:10" ],
+    "operator": "InBand"
+  },
+  {
+    "signal": "ATL8",
+    "valueType": "Integer",
+    "value": [ "50", "100" ],
+    "operator": "InBand"
+  },
+  {
+    "signal": "ATL8",
+    "valueType": "Integer",
+    "value": [ "70" ],
+    "operator": "GreaterThan"
+  },
+  {
+    "signal": "ATL8",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL8",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10" ],
+    "operator": "IsFuture"
+  },
+  {
+    "signal": "ATL8",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10", "2017-12-13 22:40:10" ],
+    "operator": "InBand"
+  },
+
+  {
+    "signal": "ATL9",
+    "valueType": "Integer",
+    "value": [ "0", "60" ],
+    "operator": "OutBand"
+  },
+  {
+    "signal": "ATL9",
+    "valueType": "Integer",
+    "value": [ "100" ],
+    "operator": "LessThan"
+  },
+  {
+    "signal": "ATL9",
+    "valueType": "String",
+    "value": [ "LOW" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATL9",
+    "valueType": "Datetime",
+    "value": [ "2017-06-13 22:40:10" ],
+    "operator": "LessThan"
+  },
+  {
+    "signal": "ATL9",
+    "valueType": "Datetime",
+    "value": [ "2016-01-13 22:40:10", "2016-12-13 22:40:10" ],
+    "operator": "OutBand"
+  },
+
+  {
+    "signal": "ATl10",
+    "valueType": "Integer",
+    "value": [ "70" ],
+    "operator": "EqualTo"
+  },
+  {
+    "signal": "ATl10",
+    "valueType": "String",
+    "value": [ "HIGH" ],
+    "operator": "NotEqual"
+  },
+  {
+    "signal": "ATl10",
+    "valueType": "Datetime",
+    "value": [ "2016-06-13 22:40:10" ],
+    "operator": "GreaterThan"
+  }
+]
